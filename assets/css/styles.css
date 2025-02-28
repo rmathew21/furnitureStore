@@ -1,0 +1,28 @@
+.carousel-caption {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.br-sets {
+    font-size: 24px;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.shop {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 25px;
+}
+
+.shop:hover {
+    background-color: #0056b3;
+}
