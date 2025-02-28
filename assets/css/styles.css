@@ -6,6 +6,11 @@
     font-style: normal;
   }
 
+  /* .carousel-item {
+    margin: auto;
+    height: auto;
+  } */
+
 .carousel-caption {
     position: absolute;
     top: 50%;
