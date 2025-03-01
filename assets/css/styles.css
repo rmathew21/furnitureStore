@@ -129,5 +129,41 @@
     color: black;
     display: block;
     text-align: center;
-    
+    margin-bottom: 100px;
+}
+
+.aboutText {
+    text-align: center;
+}
+
+.ourTeam {
+    font-weight: 200;
+}
+
+.knowUs {
+    font-weight: 500;
+}
+
+.personBio {
+    text-align: center;
+}
+
+.staffPic {
+    max-width: 80%;
+    height: 700px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 70px;
+}
+
+.name {
+    margin-top: 30px;
+}
+
+.title {
+    margin-top: 10px;
+}
+
+.personBio p {
+    margin-top: 10px;
 }
