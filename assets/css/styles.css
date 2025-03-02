@@ -36,6 +36,12 @@
     cursor: pointer;
     margin-top: 25px;
 }
+    @media (max-width: 576px) {
+        .shopBtn {
+            padding: 8px 16px;
+            font-size: 14px;
+        }
+    }
 
 .shop:hover {
     background-color: #0056b3;
