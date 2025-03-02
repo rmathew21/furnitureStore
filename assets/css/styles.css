@@ -24,6 +24,11 @@
     filter: invert(1);
   }
 
+  #cartOffcanvas {
+    background-color: rgb(50, 50, 50);
+    color: white; 
+  }
+
 .carousel-caption {
     position: absolute;
     top: 50%;
