@@ -13,7 +13,15 @@
 
   #offcanvasNavbar {
     background-color: rgb(50, 50, 50);
+  }
+
+  #offcanvasNavbar .offcanvas-body,
+  #offcanvasNavbar .offcanvas-header {
     color: white;
+  }
+
+  .offcanvas-header .btn-close {
+    filter: invert(1);
   }
 
 .carousel-caption {
