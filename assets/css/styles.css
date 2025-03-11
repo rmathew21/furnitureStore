@@ -120,10 +120,16 @@
 }
 
 .artisanImg img {
-    max-width: 100%;
+    max-width: 80%;
+    max-height: auto;
     height: auto;
     display: block;
     margin: 0 auto;
+}
+.tooTall {
+    max-height: 175vh; /* Or adjust this value for your desired look */
+    object-fit: cover; /* Ensures the aspect ratio remains consistent */
+    width: 100%;
 }
 
 .exploreBtn {
